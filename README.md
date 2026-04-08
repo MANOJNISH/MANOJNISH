@@ -28,10 +28,14 @@
 ---
 
 ## 🌟 Area of Interest
-- Embedded Systems  
+- Web Development
+- Java Programming
+- Software Development
+- Front-End Development
+- Embedded Systems
 - IoT Development  
 - VLSI & Digital Design  
-- Front-End Development  
+ 
 
 ---
 
